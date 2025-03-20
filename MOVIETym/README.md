@@ -1,4 +1,8 @@
 
+Title Of Project: Movie Database Explorer
+Application Name : MOVIETym
+
+
 # MOVIETym - Movie Discovery Web Application
 
 MOVIETym is a responsive web application built with React and Vite, leveraging the TMDb (The Movie Database) API to provide a seamless movie discovery experience. Users can browse popular and top-rated movies, search by title, filter by genre, view detailed movie information, manage a favorites list, and enjoy a consistent footer with social media links.
@@ -16,11 +20,11 @@ MOVIETym is a responsive web application built with React and Vite, leveraging t
 
 ## Live Demo
 
-Check out the live deployment: [MOVIETym Live](https://your-vercel-deployment-link.vercel.app) <!-- Replace with your Vercel or other deployment link -->
+Check out the live deployment:  [MOVIETym Live](https://movietym.vercel.app/) <!-- Vercel  deployment link -->
 
 ## GitHub Repository
 
-Source code is available at: [MOVIETym GitHub Repository](https://github.com/your-username/movietym) <!-- Replace with your GitHub repository URL -->
+Source code is available at:  [MOVIETym GitHub Repository](https://github.com/AAKhan123/MOVIETym) <!--  GitHub repository URL -->
 
 ## Prerequisites
 
@@ -34,7 +38,7 @@ Before running the project, ensure you have the following installed:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/movietym.git
+   git clone https://github.com/AAKhan123/movietym.git
    cd movietym
    ```
 
